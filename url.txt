@@ -1,1 +1,1 @@
-http://localhost:8501
+https://bike-sharing-eda.streamlit.app/
